@@ -12,8 +12,8 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName: "Starboy", filePath: "songs/1.mp3", coverPath: "covers/1.jpeg"},
     {songName: "Onekiss", filePath: "songs/2.mp3", coverPath: "covers/12.jpg"},
-    {songName: "Man-Meri-Jaan", filePath: "songs/3.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Man Meri Jaan", filePath: "songs/3.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Kun Faya Kun", filePath: "songs/4.mp3", coverPath: "covers/4.jpeg"},
     {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Rabba - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     {songName: "Sakhiyaan - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
